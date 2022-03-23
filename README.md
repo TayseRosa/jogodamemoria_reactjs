@@ -1,46 +1,62 @@
-# Getting Started with Create React App
+<h1 align="center"> Jogo da Memória com React JS</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Índice
+- [➡️ Demo](#️-demo)
+- [🛠 Sobre o projeto](#-sobre-o-projeto)
+- [🚀 Tecnologias utilizadas neste projeto](#-tecnologias-utilizadas-neste-projeto)
+- [📥 Como usar](#-como-usar)
+- [🚀 Autor](#-autor)
+  
 
-## Available Scripts
+# ➡️ Demo
+<p align="center">
+  <img src="./img/readme01.png" width="100%" />
+</p>
 
-In the project directory, you can run:
+---
+# 🛠 Sobre o projeto
+O Jogo da memória foi construído com o objetivo de estudar conceitos de React JS em forma descontraída. Este projeto foi desenvolvido juntamente com o curso B7Web.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# 🚀 Tecnologias utilizadas neste projeto
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [x] HTML
+- [x] CSS
+- [x] JAVASCRIPT
+- [x] REACT JS
+- [x] STYLED COMPONENTS
 
-### `npm test`
+# 📥 Como usar
+```js
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+    //Clonar o repositório
+    $ git clone https://github.com/TayseRosa/jogodamemoria_reactjs.git
 
-### `npm run build`
+    //Entrar no diretório
+    $ cd jogodamemoria_reactjs
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+    //Instalar bibliotecas
+    $ npm install
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    //Startar o projeto
+    npm start
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+``` 
 
-### `npm run eject`
+# 🚀 Autor
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<a href="https://www.tayserosa.dev">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/31596454?v=4" width="100px;" alt="Tayse Rosa" style="border-radius:50%"/>
+ <br />
+ <sub><b>Tayse Rosa</b></sub></a> <a href="https://www.tayserosa.dev" title="Tayse Rosa">🚀</a>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Feito com ❤️ por Tayse Rosa 🚀
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+👋🏽 Entre em contato!
 
-## Learn More
+![Linkedin Badge](https://img.shields.io/badge/-TayseRosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tayse-rosa-3b683151/)[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TayseRosa/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<h5> Créditos: B7 Web </h5>
